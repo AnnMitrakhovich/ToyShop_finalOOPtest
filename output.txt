@@ -1,0 +1,10 @@
+3, Doll, 6
+3, Doll, 6
+2, Robot, 2
+6, Phone, 9
+6, Phone, 9
+4, Ball2, 3
+6, Phone, 9
+1, Ball, 2
+1, Ball, 2
+4, Ball2, 3
